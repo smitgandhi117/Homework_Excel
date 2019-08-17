@@ -1,2 +1,2 @@
 # Homework_Excel
-Excel Homework, weel 1&amp;2
+Excel Homework, week 1&amp;2
